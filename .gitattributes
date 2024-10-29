@@ -1,1 +1,2 @@
 dist/* linguist-vendored=false
+*.ipynb linguist-vendored
